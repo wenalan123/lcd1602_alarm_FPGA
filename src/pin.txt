@@ -1,0 +1,21 @@
+to			,		location
+clk			,		PIN_Y2
+s_rst_n		,		PIN_M23
+data[7]		,		PIN_M5
+data[6]		,		PIN_M3
+data[5]		,		PIN_K2
+data[4]		,		PIN_K1
+data[3]		,		PIN_K7
+data[2]		,		PIN_L2
+data[1]		,		PIN_L1
+data[0]		,		PIN_L3
+en			,		PIN_L4
+rs			,		PIN_M2
+rw			,		PIN_M1
+on			,		PIN_L5
+
+key1		,		PIN_M21
+key2		,		PIN_N21
+key3		,		PIN_R24
+
+led			,		PIN_E21
